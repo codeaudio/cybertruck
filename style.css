@@ -219,8 +219,8 @@ footer{
 }
 @media screen and (max-width: 1024px) {
 	h2{
-		margin: auto;
-		padding-left: 10%;
+		margin: 0 auto;
+		padding-left: 1vw;
 	}
 	html,body{
 		height: 100vw;
