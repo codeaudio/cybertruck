@@ -218,15 +218,18 @@ footer{
    
 }
 @media screen and (max-width: 1024px) {
-
+		.menu{
+		
+		padding-left: 0.5vw;
+	}
 	html,body{
 		height: 100vw;
 	}
 }
 @media screen and (max-width: 800px) {
 		.menu{
-		margin: 0 auto;
-	
+		
+		padding-left: 0.5vw;
 	}
 		html,body{
 		height: 100vw;
