@@ -209,7 +209,7 @@ footer{
 }
 @font-face{
 font-family: "nx1dz-zosgw";
-src: url("nx1dz-zosgw.woff2") format("truetype");
+src: url("nx1dz-zosgw.woff2") format("woff2");
 font-style: normal; 
 font-weight: normal; 
 }
