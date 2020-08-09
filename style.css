@@ -218,7 +218,7 @@ footer{
    
 }
 @media screen and (max-width: 1024px) {
-	h2{
+	.menu{
 		margin: 0 auto;
 		padding-left: 1vw;
 	}
