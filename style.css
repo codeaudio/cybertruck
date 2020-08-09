@@ -220,7 +220,8 @@ footer{
 @media screen and (max-width: 1024px) {
 	.menu {
 		margin: 0 auto;
-	
+	text-align: center;
+		padding-right: 0;
 	}
 	html,body{
 		height: 100vw;
@@ -229,7 +230,7 @@ footer{
 @media screen and (max-width: 800px) {
 		.menu{
 		margin: 0 auto;
-	
+	text-align: center;
 	}
 		html,body{
 		height: 100vw;
