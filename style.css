@@ -208,10 +208,15 @@ footer{
 	}
 }
 @font-face{
-font-family: "nx1dz-zosgw";
-src: url("nx1dz-zosgw.woff2") format("woff2");
-font-style: normal; 
-font-weight: normal; 
+{
+    font-family: 'Paladins Expanded';
+   
+    src: url('nx1dz-zosgw.woff2') format('woff2'),
+         url('../fonts/l_10646-webfont.woff') format('woff'),
+         url('paladinsexpand.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
 }
 @media screen and (max-width: 1024px) {
 	html,body{
