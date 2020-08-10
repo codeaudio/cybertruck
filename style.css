@@ -223,16 +223,15 @@ footer{
 		height: 100vw;
 	}
 	h2{
-		
+		font-size: 100px;
 	}
 	.menu {
-		margin: 1.3vh;
-width: 10vw;
+
 		float: none;
 		
 		align-content: center;
-		margin-top: 10%;
-		padding: 1%;
+		margin-top: 100%;
+		padding: 10%;
 	
 }
 	.content{
