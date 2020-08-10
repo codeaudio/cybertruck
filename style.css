@@ -223,8 +223,8 @@ footer{
 		height: 100vw;
 	}
 	.menu, h2 {
-		
-		display: list-item;
+		margin: auto;
+		float: none;
 		display: inline-block;
 	
 		
