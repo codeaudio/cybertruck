@@ -74,13 +74,13 @@ margin-right: 2%;
 
 .menu{
 
-	
+	display:flex;
     margin: 0.3vw;
 	float: none;
 	text-align: center;
 	align-content: center;
 	margin-right: 29%;
-    display: inline-flex;
+    
 }
 html, body {
   height: 119%;
