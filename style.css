@@ -234,7 +234,10 @@ footer{
 		height: 100vw;
 	}
 	.menu {
-	margin-left: 10%;
+	padding: 10px;
+		margin:  auto;
+	margin: 10%;
+		float: right;
 }
 	.content{
 		background-image: none;
