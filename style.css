@@ -221,8 +221,7 @@ footer{
 	.menu,h2 {
 	   align-content: center;
 		float: none;
-		padding: 100px;
-		margin:10%;
+		
 }
 	html,body{
 		height: 100vw;
@@ -235,7 +234,7 @@ footer{
 	.menu, h2 {
 			
 		float: none;
-		padding: 100px;
+		
 	
 }
 	.content{
