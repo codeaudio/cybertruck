@@ -228,7 +228,7 @@ footer{
 		float: none;
 		text-align: center;
 		align-content: center;
-		
+		display: inline-block;
 	
 }
 	.content{
