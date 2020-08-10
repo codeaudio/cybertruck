@@ -218,20 +218,13 @@ footer{
    
 }
 @media screen and (max-width: 1024px) {
-	.menu {
-			float: none;
-	margin: auto;
 	
-	}
 	html,body{
 		height: 100vw;
 	}
 }
 @media screen and (max-width: 800px) {
-		.menu{
-		float: none;
-	margin: auto;
-	}
+	
 		html,body{
 		height: 100vw;
 	}
