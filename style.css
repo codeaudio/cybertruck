@@ -237,7 +237,7 @@ footer{
 	h1,h2{
 		background: none;
 		font-size: 2.5vw;
-		margin: auto;
+		margin: 0 auto;
 	background-image: none;
 	}
 	h3{
