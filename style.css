@@ -227,7 +227,7 @@ footer{
 		height: 100vw;
 	}
 	.menu {
-	text-align: center;
+	margin-left: 10%;
 }
 	.content{
 		background-image: none;
