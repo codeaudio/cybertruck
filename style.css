@@ -215,7 +215,8 @@ footer{
          url('PaladinsExpanded-MPYY.otf') format('opentype'),
          url('paladinsexpand.ttf') format('truetype'),
 		 url('paladinsexpand1.svg#PaladinsExpanded') format('svg');
-  
+    font-weight: normal;
+    font-style: normal;
 
 }
 
