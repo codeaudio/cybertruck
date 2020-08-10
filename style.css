@@ -222,11 +222,12 @@ footer{
 		html,body{
 		height: 100vw;
 	}
-	.menu, h2 {
-		margin: 1vw;
-		display: list-item;
-		display: inline-block;
-	
+	.menu {
+		margin: 1vh;
+		padding: 1vh;
+		float: none;
+		text-align: center;
+		align-content: center;
 		
 	
 }
