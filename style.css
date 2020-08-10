@@ -228,10 +228,11 @@ footer{
 }
 @media screen and (max-width: 800px) {
 		html,body{
-			float: none;
+		height: 100vw;
 	}
 	.menu {
-	margin-left: 10%;
+				float: none;
+	
 }
 	.content{
 		background-image: none;
