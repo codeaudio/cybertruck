@@ -223,9 +223,9 @@ footer{
 		height: 100vw;
 	}
 	.menu, h2 {
-		margin: auto;
+		
 		float: none;
-		display: flex;
+		display: flow-root;
 }
 	.content{
 		background-image: none;
