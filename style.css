@@ -221,10 +221,7 @@ footer{
 	.menu {
 	align-content: center;
 		text-align: center;
-	float: none;
-	margin: 0 auto;
-		
-	
+		float: none;
 }
 	html,body{
 		height: 100vw;
@@ -235,10 +232,7 @@ footer{
 		height: 100vw;
 	}
 	.menu {
-float: none;
-		
-	margin: 0 auto;
-		
+	margin-left: 10%;
 }
 	.content{
 		background-image: none;
