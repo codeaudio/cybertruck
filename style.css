@@ -31,7 +31,7 @@ text-shadow: #EEEE00 0 0 10px, #FF0000 5px 5px 5px;
 	
 }
 h2{
-	display: block;
+	display: flex;
 	font-size: 1.1vw;
 	background-image: url(3333.png);
 	text-shadow: #FFFFFF 0 0 10px, #DDE888 0px 0px 5px;
@@ -224,7 +224,8 @@ footer{
 	}
 	.menu, h2 {
 		margin: 1vw;
-			text-align: center;
+			float: none;
+		display: inline-block;
 	
 		
 	
