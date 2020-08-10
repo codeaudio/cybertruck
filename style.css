@@ -219,10 +219,10 @@ footer{
 }
 @media screen and (max-width: 1024px) {
 	.menu,h2 {
-	    text-align: center;
+	   align-content: center;
 		float: none;
 		padding: 100px;
-		margin: auto;
+		margin:10%;
 }
 	html,body{
 		height: 100vw;
@@ -233,7 +233,7 @@ footer{
 		height: 100vw;
 	}
 	.menu, h2 {
-			 text-align: center;
+			
 		float: none;
 		padding: 100px;
 	
