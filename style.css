@@ -229,6 +229,7 @@ footer{
 		
 		align-content: center;
 	
+		padding: 10%;
 	
 }
 	.content{
@@ -241,7 +242,7 @@ footer{
 	}
 	h1,h2{
 		background: none;
-		font-size: 4.5vw;
+		font-size: 2.5vw;
 		margin: 0 auto;
 	background-image: none;
 	}
