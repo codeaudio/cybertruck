@@ -78,7 +78,7 @@ margin-right: 2%;
     margin: 0.3%;
 	float: right;
 	margin-right: 29%;
-    display: inline-flex;
+    display: flex;
 }
 html, body {
   height: 119%;
