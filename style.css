@@ -226,6 +226,9 @@ footer{
 		html,body{
 		height: 100vw;
 	}
+	.menu {
+	text-align: center;
+}
 	.content{
 		background-image: none;
 	}
