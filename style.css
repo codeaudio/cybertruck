@@ -224,7 +224,7 @@ footer{
 	}
 	.menu, h2 {
 		margin: 1vw;
-			float: none;
+		display: list-item;
 		display: inline-block;
 	
 		
