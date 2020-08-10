@@ -220,7 +220,7 @@ footer{
 @media screen and (max-width: 1024px) {
 	.menu,h2 {
 		padding: 10px;
-		margin:  auto;
+		
 	margin: 10%;
 		float: right;
 	
@@ -235,7 +235,7 @@ footer{
 	}
 	.menu {
 	padding: 10px;
-		margin:  auto;
+	
 	margin: 10%;
 		float: right;
 }
