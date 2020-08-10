@@ -217,23 +217,13 @@ footer{
 		 url('paladinsexpand1.svg#PaladinsExpanded') format('svg');
    
 }
-@media screen and (max-width: 1024px) {
-	.menu,h2 {
-		margin: 0 auto;
-	   text-align: center;
-		
-		
-}
-	html,body{
-		height: 100vw;
-	}
-}
+
 @media screen and (max-width: 800px) {
 		html,body{
 		height: 100vw;
 	}
 	.menu, h2 {
-		margin: 0 auto;
+		margin: 1vw;
 			text-align: center;
 	
 		
