@@ -78,7 +78,7 @@ margin-right: 2%;
     margin: 0.3%;
 	float: right;
 	margin-right: 29%;
-    display: inline-flex;
+    
 }
 html, body {
   height: 119%;
@@ -228,7 +228,7 @@ footer{
 		background-image: none;
 	}
 	.menu {
-	display: block!imposrtant;
+	display: block;
 }
 	img{
 		
