@@ -75,8 +75,10 @@ margin-right: 2%;
 .menu{
 
 	
-    margin: 0.3%;
-	float: right;
+    margin: 0.3vw;
+	float: none;
+	text-align: center;
+	align-content: center;
 	margin-right: 29%;
     display: inline-flex;
 }
