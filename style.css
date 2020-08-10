@@ -222,15 +222,13 @@ footer{
 		html,body{
 		height: 100vw;
 	}
-	h2{
-		font-size: 100px;
-	}
+
 	.menu {
 
 		float: none;
 		
 		align-content: center;
-		margin-top: 100%;
+	
 		padding: 10%;
 	
 }
