@@ -222,15 +222,13 @@ footer{
 		html,body{
 		height: 100vw;
 	}
-
 	.menu {
-		margin: 0.3vh;
-
+		margin: 1vh;
+		padding: 1vh;
 		float: none;
-		
+		text-align: center;
 		align-content: center;
-		margin-top: 10%;
-		padding: 1%;
+		
 	
 }
 	.content{
@@ -243,7 +241,7 @@ footer{
 	}
 	h1,h2{
 		background: none;
-		font-size: 1.5vw;
+		font-size: 2.5vw;
 		margin: 0 auto;
 	background-image: none;
 	}
