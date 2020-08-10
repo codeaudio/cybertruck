@@ -222,7 +222,10 @@ footer{
 		html,body{
 		height: 100vw;
 	}
-
+	h2{
+		padding: 10%;
+		margin: 1vh;
+	}
 	.menu {
 		margin: 0.3vh;
 
@@ -230,6 +233,7 @@ footer{
 		
 		align-content: center;
 		margin-top: 10%;
+		padding: 1%;
 	
 }
 	.content{
