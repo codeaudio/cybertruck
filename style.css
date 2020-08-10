@@ -218,10 +218,10 @@ footer{
    
 }
 @media screen and (max-width: 1024px) {
-	.menu,h2 {
+	.menu {
 		padding: 10px;
 		
-	margin: 10%;
+	margin: 0 auto;
 		float: right;
 	
 }
@@ -235,8 +235,8 @@ footer{
 	}
 	.menu {
 	padding: 10px;
-	
-	margin: 10%;
+		
+	margin: 0 auto;
 		float: right;
 }
 	.content{
