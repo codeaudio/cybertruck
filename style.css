@@ -222,6 +222,7 @@ footer{
 	    text-align: center;
 		float: none;
 		padding: 100px;
+		margin: auto;
 }
 	html,body{
 		height: 100vw;
@@ -231,8 +232,10 @@ footer{
 		html,body{
 		height: 100vw;
 	}
-	.menu {
-				float: none;
+	.menu, h2 {
+			 text-align: center;
+		float: none;
+		padding: 100px;
 	
 }
 	.content{
