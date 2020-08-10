@@ -224,12 +224,13 @@ footer{
 	}
 
 	.menu {
+		margin: 0.3vh;
 
 		float: none;
 		
 		align-content: center;
-	margin-top: 10%;
-		padding: 10%;
+		margin-top: 10%;
+		padding: 1%;
 	
 }
 	.content{
@@ -237,8 +238,8 @@ footer{
 	}
 	img{
 		
-		width: 18%;
-		height: 6%
+		width: 20%;
+		height: 10%
 	}
 	h1,h2{
 		background: none;
