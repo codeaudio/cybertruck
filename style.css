@@ -228,7 +228,7 @@ footer{
 		background-image: none;
 	}
 	.menu {
-	display: block;
+	display: block!imposrtant;
 }
 	img{
 		
