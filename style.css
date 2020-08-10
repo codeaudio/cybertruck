@@ -236,6 +236,7 @@ footer{
 		background-image: none;
 	}
 	.menu {
+		float: none;
 	text-align: center;
 align-content: center;
 		display:inline-block;
