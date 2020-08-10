@@ -241,6 +241,7 @@ footer{
 align-content: center;
 		display:inline-block;
 		margin: 0 auto;
+		float: left;
 }
 	img{
 		
