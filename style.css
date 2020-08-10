@@ -237,9 +237,10 @@ footer{
 	}
 	.menu {
 		float: none;
-	
+	text-align: center;
+align-content: center;
 		display:inline-block;
-		margin: 1vw;
+		
 }
 	img{
 		
