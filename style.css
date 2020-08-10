@@ -61,7 +61,7 @@ margin-right: 2%;
    margin-top: 5%;
 }
 .but:hover{
-	text-align: center;
+	
    opacity: 0.9;
     background: #590212;
     box-shadow: 0 0 10px #590212, 0 0 40px #590212, 0 0 80px #590212;
@@ -74,7 +74,7 @@ margin-right: 2%;
 
 .menu{
 
-	
+	text-align: center;
     margin: 0.3%;
 	float: right;
 	margin-right: 29%;
@@ -218,13 +218,11 @@ footer{
    
 }
 @media screen and (max-width: 1024px) {
-	
 	html,body{
 		height: 100vw;
 	}
 }
 @media screen and (max-width: 800px) {
-	
 		html,body{
 		height: 100vw;
 	}
