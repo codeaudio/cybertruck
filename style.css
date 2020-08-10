@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: "Paladins Expanded";
+	font-family: 'Paladins Expanded';
 color: #FFFFFF;
 
 
@@ -215,12 +215,20 @@ footer{
          url('PaladinsExpanded-MPYY.otf') format('opentype'),
          url('paladinsexpand.ttf') format('truetype'),
 		 url('paladinsexpand1.svg#PaladinsExpanded') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
 }
 
 @media screen and (max-width: 800px) {
+	@font-face{
+
+    font-family: 'Paladins Expanded';
+   
+    src: url('nx1dz-zosgw.woff2') format('woff2'),
+         url('PaladinsExpanded-MPYY.otf') format('opentype'),
+         url('paladinsexpand.ttf') format('truetype'),
+		 url('paladinsexpand1.svg#PaladinsExpanded') format('svg');
+   
+
+}
 		html,body{
 		height: 100vw;
 	}
