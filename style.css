@@ -219,7 +219,7 @@ footer{
 }
 @media screen and (max-width: 1024px) {
 	.menu {
-	margin-left: 10%;
+	
 		float: none;
 }
 	html,body{
@@ -228,7 +228,7 @@ footer{
 }
 @media screen and (max-width: 800px) {
 		html,body{
-		height: 100vw;
+			float: none;
 	}
 	.menu {
 	margin-left: 10%;
