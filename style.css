@@ -208,7 +208,7 @@ footer{
 	}
 }
 @font-face{
-{
+
     font-family: 'Paladins Expanded';
    
     src: url('nx1dz-zosgw.woff2') format('woff2'),
@@ -217,7 +217,7 @@ footer{
 		 url('paladinsexpand.svg#PaladinsExpanded') format('svg');
     font-weight: normal;
     font-style: normal;
-}
+
 }
 
 @media screen and (max-width: 800px) {
